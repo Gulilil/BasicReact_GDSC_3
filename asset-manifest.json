@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.b692151a.chunk.css",
+    "main.js": "/my-app/static/js/main.fb2a8242.chunk.js",
+    "main.js.map": "/my-app/static/js/main.fb2a8242.chunk.js.map",
+    "runtime-main.js": "/my-app/static/js/runtime-main.6ccbfba3.js",
+    "runtime-main.js.map": "/my-app/static/js/runtime-main.6ccbfba3.js.map",
+    "static/js/2.cfa33676.chunk.js": "/my-app/static/js/2.cfa33676.chunk.js",
+    "static/js/2.cfa33676.chunk.js.map": "/my-app/static/js/2.cfa33676.chunk.js.map",
+    "static/js/3.c91103e6.chunk.js": "/my-app/static/js/3.c91103e6.chunk.js",
+    "static/js/3.c91103e6.chunk.js.map": "/my-app/static/js/3.c91103e6.chunk.js.map",
+    "index.html": "/my-app/index.html",
+    "static/css/main.b692151a.chunk.css.map": "/my-app/static/css/main.b692151a.chunk.css.map",
+    "static/js/2.cfa33676.chunk.js.LICENSE.txt": "/my-app/static/js/2.cfa33676.chunk.js.LICENSE.txt",
+    "static/media/dramas1.dd2b68d7.jpg": "/my-app/static/media/dramas1.dd2b68d7.jpg",
+    "static/media/dramas3.a6154e6b.jpg": "/my-app/static/media/dramas3.a6154e6b.jpg",
+    "static/media/logo.6ce24c58.svg": "/my-app/static/media/logo.6ce24c58.svg",
+    "static/media/logo.99adbdef.jpg": "/my-app/static/media/logo.99adbdef.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ccbfba3.js",
+    "static/js/2.cfa33676.chunk.js",
+    "static/css/main.b692151a.chunk.css",
+    "static/js/main.fb2a8242.chunk.js"
+  ]
+}
